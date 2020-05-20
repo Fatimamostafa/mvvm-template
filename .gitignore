@@ -83,3 +83,25 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+
+#Copied
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.cxx
+/.idea/gradle.xml
+/.idea/runConfigurations.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/app/release/
